@@ -12,3 +12,4 @@ class Supplier_m extends CI_Model {
 		return $query;
 	}
 }
+//test
